@@ -20,7 +20,7 @@ function turnLeft(rover) {
     default: "N";
     
   }
-  
+
 }
  
 function turnRight(rover) {
@@ -36,6 +36,7 @@ function turnRight(rover) {
     case "W": rovermars.direction = "N";
     default: "N";
   }  
+  
 }
  
 function moveForward(rover) {
