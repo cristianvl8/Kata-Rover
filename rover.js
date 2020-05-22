@@ -18,6 +18,7 @@ function turnLeft(rover) {
     case "W": rovermars.direction = "N";
       break;
     default: "N";
+    
   }
 }
  
