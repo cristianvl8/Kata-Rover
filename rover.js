@@ -20,6 +20,7 @@ function turnLeft(rover) {
     default: "N";
     
   }
+  
 }
  
 function turnRight(rover) {
